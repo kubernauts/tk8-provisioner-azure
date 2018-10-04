@@ -1,7 +1,5 @@
 package provisioner
 
-import "github.com/kubernauts/tk8/internal/cluster"
-
 type Azure struct {
 }
 
